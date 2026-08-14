@@ -1,12 +1,12 @@
 {
-    "version": "0.5.0",
+    "version": "0.6.0",
     "description": "Yandex Tracker CLI — NativeAOT, JSON-first, four auth methods.",
     "homepage": "https://github.com/RoboNET/YandexTrackerCLI",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/RoboNET/YandexTrackerCLI/releases/download/v0.5.0/yt-win-x64.zip",
-            "hash": "17e74f35ea85514dcb72511728061816786446d8ae4b6405bc78830f2c7083f1"
+            "url": "https://github.com/RoboNET/YandexTrackerCLI/releases/download/v0.6.0/yt-win-x64.zip",
+            "hash": "72b36810b22506e5c9a0a8ac567134ed15bfd66adc8a1ed495bec26495b0d98d"
         }
     },
     "bin": "yt.exe",
